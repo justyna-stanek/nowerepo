@@ -1,2 +1,3 @@
 pierwsze zajęcia z git! ;)
 kolejna linijka testowa ;)
+bawimy się dalej ;)
